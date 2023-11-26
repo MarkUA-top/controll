@@ -72,6 +72,8 @@
 }
 .read{
   background-color: var(--wt-bg);
+  padding-top: 49px;
+  padding-bottom: 159px;
 }
 .want-read {
   color: var(--travel);
