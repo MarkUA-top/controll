@@ -17,6 +17,8 @@
   font-family: lato;
 }
 .header {
+    padding-top: 60px;
+    padding-bottom: 60px;
 }
 .logo-cont {
 }
@@ -33,6 +35,7 @@
 .main {
 }
 .travel {
+    padding-bottom: 35px;
 }
 .post-name {
 }
@@ -55,10 +58,14 @@
 .travel-jessica-image {
 }
 .want-read {
+    padding-top: 49px;
+    padding-bottom: 159px;
 }
 .vba {
 }
 .Featured {
+    padding-top: 85px;
+    padding-bottom: 90px;
 }
 .Featured-image {
 }
@@ -71,6 +78,8 @@
 .Want {
 }
 .footer {
+    padding-top: 55px;
+    padding-bottom: 45px;
 }
 .last {
 }
