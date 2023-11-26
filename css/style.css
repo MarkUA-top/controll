@@ -1,0 +1,84 @@
+:root {
+  --textcolor: #fff;
+  --travel: #333;
+  --link-color: #8d4fdb;
+  --travel-mini: #a9afb3;
+  --footer-text: #8b8b8b;
+  --featured-travel-color: #000;
+}
+
+.container {
+  width: 950px;
+  padding: 0 10px;
+  margin: 0 auto;
+  outline: blueviolet solid;
+}
+.body {
+  font-family: lato;
+}
+.header {
+}
+.logo-cont {
+}
+.container {
+}
+.header-menu {
+}
+.header-list {
+}
+.header-item {
+}
+.header-link {
+}
+.main {
+}
+.travel {
+}
+.post-name {
+}
+.travel-luke-bg {
+}
+.travel-luke-image {
+}
+.name {
+}
+.travel-date {
+}
+.description {
+}
+.travel-description {
+}
+.ct-read {
+}
+.travel-jessica-bg {
+}
+.travel-jessica-image {
+}
+.want-read {
+}
+.vba {
+}
+.Featured {
+}
+.Featured-image {
+}
+.mini-name {
+}
+.mini-date {
+}
+.travel-mini {
+}
+.Want {
+}
+.footer {
+}
+.last {
+}
+.footer-menu {
+}
+.footer-list {
+}
+.footer-owner {
+}
+.footer-link {
+}
