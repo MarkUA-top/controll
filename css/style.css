@@ -6,7 +6,7 @@
   --footer-text: #8b8b8b;
   --featured-travel-color: #000;
   --main: #e5c298;
---wt-bg:#F1F1F1 ;
+  --wt-bg: #f1f1f1;
 }
 
 .container {
@@ -70,7 +70,7 @@
   font-weight: 400;
   line-height: 25px;
 }
-.read{
+.read {
   background-color: var(--wt-bg);
   padding-top: 49px;
   padding-bottom: 159px;
