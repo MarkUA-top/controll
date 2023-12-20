@@ -25,6 +25,7 @@
   padding-bottom: 74px;
 }
 .logo {
+  margin-bottom: 40px;
   display: block;
   margin-left: auto;
   margin-right: auto;
@@ -48,12 +49,21 @@
 .travel {
   padding-bottom: 35px;
 }
-.luke-bg {
-  background-image: url(../image/Luke-bg.png);
+.travel-dater {
+  width: 800px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.luke-travel-info {
+  width: 800px;
+  height: 510px;
+}
+.bg {
+  margin-bottom: 36px;
   width: 800px;
   height: 330px;
 }
-.post-name {
+.post-name-1 {
   color: var(--textcolor);
   background-color: var(--background-travel);
   text-align: center;
@@ -68,12 +78,45 @@
   line-height: 24px;
   letter-spacing: 1px;
 }
-.luke-image {
+.post-name-2 {
+  color: transparent;
+  margin-left: 720px;
+  width: 60px;
+  height: 25px;
+  font-size: 8px;
+  font-family: Montserrat;
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 24px;
+  letter-spacing: 1px;
+}
+.post-name-3 {
+  color: var(--textcolor);
+  background-color: var(--background-travel);
+  text-align: center;
+  margin-left: 678px;
+  border-radius: 30px;
+  width: 102px;
+  height: 25px;
+  font-size: 8px;
+  font-family: Montserrat;
+  font-weight: 400;
+  text-transform: uppercase;
+  line-height: 24px;
+  letter-spacing: 1px;
+}
+.image {
   margin-top: 160px;
   margin-left: 60px;
   width: 200px;
   height: 40px;
   display: flex;
+}
+.nikname {
+  flex-wrap: wrap;
+}
+.travel-image {
+  margin-right: 14px;
 }
 .name {
   color: var(--textcolor);
@@ -92,6 +135,7 @@
   color: var(--textcolor);
   margin-top: 20px;
   margin-bottom: 40px;
+  margin-left: 60px;
   width: 470px;
   font-size: 28px;
   font-family: Montserrat;
@@ -100,9 +144,23 @@
 }
 .travel-description {
   color: var(--travel);
+  margin-left: 60px;
+  width: 664px;
   font-size: 18px;
   font-weight: 400;
   line-height: 25px;
+}
+.one {
+  background-image: url(../image/Luke-bg.png);
+}
+.two {
+  background-image: url(../image/jessica-bg.png);
+}
+.thre {
+  background-image: url(../image/luke-lake.png);
+}
+.ct-read {
+  margin-left: 60px;
 }
 .read {
   background-color: var(--wt-bg);
